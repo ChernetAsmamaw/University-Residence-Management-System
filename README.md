@@ -44,11 +44,11 @@ maintainable.
 * Developer: Absolutely! Based on our discussion, these are the draft classes we'll be building for
 the initial system:
 
-- DormRoom
-- Apartment
-- Student
-- MaintenanceRequest
+    - DormRoom
+    - Apartment
+    - Student
+    - MaintenanceRequest
   
-But after a further review of our conversation we might do some minor modifications.
+    But after a further review of our conversation we might do some minor modifications.
 * University Representative: This looks exactly like what we need. I'm excited to see this
 system come to life!
